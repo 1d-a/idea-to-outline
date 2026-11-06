@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 336" width="760" height="336" role="img" aria-label="三幕结构固定，第二幕要起伏，角色弧线各不相同" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei','Source Han Sans SC',sans-serif" font-size="13">
+<title>三幕总览 · 三幕按 25：50：25 分，第二幕要起伏，通用的张力与三种角色弧线</title>
+<rect x="0" y="0" width="760" height="336" fill="#ffffff"/>
+<text x="24" y="32" font-size="15" font-weight="600" fill="#1f1f1f">三幕结构固定，第二幕要起伏，角色弧线各不相同</text>
+<line x1="24" x2="48" y1="56" y2="56" stroke="#9a978f" stroke-width="2" stroke-dasharray="5 4"/><text x="56" y="60" font-size="11.5" fill="#1f1f1f">张力（通用）</text>
+<line x1="160" x2="184" y1="56" y2="56" stroke="#2a7ae2" stroke-width="2.5"/><text x="192" y="60" font-size="11.5" fill="#1f1f1f">高-低-高</text>
+<line x1="276" x2="300" y1="56" y2="56" stroke="#e8693a" stroke-width="2.5"/><text x="308" y="60" font-size="11.5" fill="#1f1f1f">高-稍降-底</text>
+<line x1="408" x2="432" y1="56" y2="56" stroke="#14a874" stroke-width="2.5"/><text x="440" y="60" font-size="11.5" fill="#1f1f1f">低-稍高-顶</text>
+<rect x="638" y="104" width="36" height="178" fill="#efeeea"/>
+<line x1="90" x2="90" y1="104" y2="282" stroke="#e4e2dc"/><line x1="90" x2="90" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="160" x2="160" y1="104" y2="282" stroke="#e4e2dc"/><line x1="160" x2="160" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="255" x2="255" y1="104" y2="282" stroke="#e4e2dc"/><line x1="255" x2="255" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="355" x2="355" y1="104" y2="282" stroke="#e4e2dc"/><line x1="355" x2="355" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="455" x2="455" y1="104" y2="282" stroke="#e4e2dc"/><line x1="455" x2="455" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="548" x2="548" y1="104" y2="282" stroke="#e4e2dc"/><line x1="548" x2="548" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="604" x2="604" y1="104" y2="282" stroke="#e4e2dc"/><line x1="604" x2="604" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="656" x2="656" y1="104" y2="282" stroke="#e4e2dc"/><line x1="656" x2="656" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="708" x2="708" y1="104" y2="282" stroke="#e4e2dc"/><line x1="708" x2="708" y1="282" y2="288" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="24" x2="736" y1="282" y2="282" stroke="#9a978f" stroke-width="1.25"/>
+<line x1="199" x2="199" y1="76" y2="282" stroke="#9a978f" stroke-dasharray="4 4"/>
+<line x1="517" x2="517" y1="76" y2="282" stroke="#9a978f" stroke-dasharray="4 4"/>
+<line x1="676" x2="676" y1="76" y2="282" stroke="#9a978f" stroke-dasharray="4 4"/>
+<text x="120" y="92" text-anchor="middle" font-weight="600" fill="#1f1f1f">第一幕 建置 · 25%</text>
+<text x="358" y="92" text-anchor="middle" font-weight="600" fill="#1f1f1f">第二幕 冲击 · 50%</text>
+<text x="597" y="92" text-anchor="middle" font-weight="600" fill="#1f1f1f">第三幕 加码与高潮 · 25%</text>
+<text x="708" y="92" text-anchor="middle" font-size="11.5" fill="#6b6b6b">结尾</text>
+<path d="M90 262L160 248L255 226L355 212L455 196L548 176L604 150L656 104L708 236" fill="none" stroke="#9a978f" stroke-width="2" stroke-dasharray="5 4" stroke-linejoin="round"/>
+<path d="M90 130L160 132L255 196L355 150L455 266L548 262L604 260L656 124L708 128" fill="none" stroke="#2a7ae2" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M90 126L160 128L255 160L355 146L455 196L548 222L604 244L656 268L708 268" fill="none" stroke="#e8693a" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M90 262L160 258L255 226L355 240L455 204L548 186L604 166L656 112L708 116" fill="none" stroke="#14a874" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="90" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">初始状态</text>
+<text x="160" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">入局</text>
+<text x="255" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">起伏①</text>
+<text x="355" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">起伏②</text>
+<text x="455" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">第二幕终点</text>
+<text x="548" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">加码</text>
+<text x="604" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">最终选择</text>
+<text x="656" y="302" text-anchor="middle" font-size="11.5" font-weight="600" fill="#1f1f1f">高潮</text>
+<text x="708" y="302" text-anchor="middle" font-size="11.5" fill="#1f1f1f">结尾</text>
+<text x="455" y="319" text-anchor="middle" font-size="10.5" fill="#6b6b6b">后接情绪氛围加码戏</text>
+</svg>
